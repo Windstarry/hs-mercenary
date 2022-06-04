@@ -20,7 +20,9 @@ BeplnEx/config/io.github.jimowushuang.hs.cfg
 | 是否自动做任务  | 开启之后可以自动根据任务列表使用技能 |  true   | 
 | 是否自动升级技能  | 开启之后如果可以升级技能会自动升级 |  true   | 
 | 是否自动制作佣兵  | 开启之后如果硬币足够会自动制作新佣兵 |  true   | 
- 
+
+## 辅助工具
+[炉石监控程序](https://github.com/jimowushuang/hs-control/releases/tag/v1.0.0) 可以在炉石异常退出的时候重启炉石
 ## 交流群
 QQ群: 792054397
 
