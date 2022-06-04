@@ -1,3 +1,4 @@
 cache/
 config/
 .DS_Store
+*.log
