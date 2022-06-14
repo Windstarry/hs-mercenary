@@ -11,6 +11,10 @@
 BeplnEx/config/io.github.jimowushuang.hs.cfg
 ```
 
+## 快捷键
+隐藏UI F1
+启动/关闭 F9
+
 ## 配置列表  
 
 |  配置项   | 说明  | 默认值|
